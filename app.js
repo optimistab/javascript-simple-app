@@ -11,3 +11,5 @@ var log = require ('./logger');
 // console.log(logger);
 log('message'); 
 
+console.log('i am learning');
+
